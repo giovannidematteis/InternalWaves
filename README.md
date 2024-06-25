@@ -70,7 +70,7 @@ input: 3 files 'av_world_e_...' provided by Caitlin Whalen; our structure 'moori
 
 output: direct comparison, all sorts of figures to observe the patterns in the comparison
 
-Latest update: 'global_strain_Pollmann' uses Friederike Pollmann's Argo estimates from 2023 [2].
+Latest update: 'global_strain_Pollmann' uses Friederike Pollmann's Argo estimates from 2023 [3].
 
 
 References to databases:
