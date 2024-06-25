@@ -7,8 +7,8 @@ If in doubt about the meaning of parts of the code, please reach out to the corr
 
 This repository contains a 6-step processing organized as follows:
 
-- Folder 'superscripts'.
-Instructions -> run the code 'superscript.m' (run time about 2-3 weeks);
+- Folder 'superscripts'.\\
+Instructions -> run the code 'superscript.m' (run time about 2-3 weeks);\\
 performs the theoretical calculations computing all the fluxes between all points in Fourier space;
 output is 25 files 'NDOTS-...' (high freq part) and 25 files 'NDOTS-...-lf' (low frequency part)
 corresponding to the 25 spectra in the space inertial slope (s, or s_NI) - continuum slope (y, or s_omega)
