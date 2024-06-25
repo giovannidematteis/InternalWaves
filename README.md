@@ -1,4 +1,6 @@
 # InternalWaves
+
+Cite this reposository as "https://doi.org/10.5281/zenodo.12529645"
 Collection of codes used for results of Nature Communications submission "Interacting internal waves explain global patterns of interior ocean mixing"
 
 This repository contains the main codes used to obtain the results in the manuscript for transparency about reproducibility of the results. However, the values of the parameters currently set in the codes may not correspond to the values used to obtain each of the results in the paper.
