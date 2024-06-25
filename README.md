@@ -1,7 +1,7 @@
 # InternalWaves
 Collection of codes used for results of Nature Communication submission "Interacting internal waves explain global patterns of interior ocean mixing"
 
-This repository contains the main codes used to obtain the results in the manuscript ..., for transparency about reproducibility of the results. However, the values of the parameters currently set in the codes may not correspond to the values used to obtain the results in the paper.
+This repository contains the main codes used to obtain the results in the manuscript for transparency about reproducibility of the results. However, the values of the parameters currently set in the codes may not correspond to the values used to obtain the results in the paper.
 If in doubt about the meaning of parts of the code, please reach out to the corresponding author at giovannidematteis@gmail.com
 
 
@@ -50,9 +50,13 @@ input: 3 files 'av_world_e_...' provided by Caitlin Whalen; our structure 'moori
 output: direct comparison, all sorts of figures to observe the patterns in the comparison
 Latest update: 'global_strain_Pollmann' uses Friederike Pollmann's Argo estimates from 2023 [2].
 
+
 References to databases:
+
 [1] The GMACMD database is not contained in this repository - only one exemplary file 'acc08518_SI.mat' in the folder 'compute_GMACMD_series'. Please contact aleboyer@ucsd.edu
+
 [2] https://doi.org/10.5281/zenodo.6966416
+
 [3] Please download those estimates from the online repository provided as reference in the manuscript: https://doi.org/10.17882/95327.
 
 Disclaimer:
