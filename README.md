@@ -83,3 +83,5 @@ References to databases:
 
 Disclaimer:
 Please treat this repository with care and reach out to giovannidematteis@gmail.com for doubts on the various pieces of code and their mutual interplay. Please keep in mind that this is a collection of the base codes that were developed to obtain our results, made publicly available for transparency. At the current stage, this is not meant to serve as a user-friendly platform.
+
+Acknowledgments: I acknowledge many discussions and interactions with Yuri V. Lvov, Arnaud Le Boyer, Friederike Pollmann, and Kurt L. Polzin, without which the creation of these codes would not have been possible.
